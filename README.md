@@ -12,6 +12,11 @@
 6. 输入验证码，然后输入你自己的邀请码
 7. 成功。
 
+```python
+#直接跑 exp.py即可
+python3 ./exp.py
+```
+
 ![image-20220618142431407](README.assets/image-20220618142431407.png)
 
 ## myria 全自动化自动刷分
@@ -19,6 +24,8 @@
 过几天再更新，我先刷一阵的。
 
 ![image-20220618142617715](README.assets/image-20220618142617715.png)
+
+![image-20220618144123435](README.assets/image-20220618144123435.png)
 
 ## tempemail
 

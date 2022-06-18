@@ -10,4 +10,9 @@
 6. 输入验证码，然后输入你自己的邀请码
 7. 成功。
 
+```python
+#直接跑 exp.py即可
+python3 ./exp.py
+```
+
 ![image-20220618142341798](README.assets/image-20220618142341798.png)
