@@ -12,6 +12,14 @@
 6. 输入验证码，然后输入你自己的邀请码
 7. 成功。
 
+![image-20220618142431407](D:\tool\web3\git\haoyangmao\README.assets\image-20220618142431407.png)
+
+## myria 全自动化自动刷分
+
+过几天再更新，我先刷一阵的。
+
+![image-20220618142617715](D:\tool\web3\git\haoyangmao\README.assets\image-20220618142617715.png)
+
 ## tempemail
 
 通过linshiyouxiang.net 获取一个随机临时邮箱并监听，直到接收到你指定的特定邮件。
@@ -32,7 +40,3 @@ proxies={'https':'http://127.0.0.1:7890'}
 后续想要提取邮件那里面的任何内容需要你自己写脚本操作了，不同场景不同。
 
 由于保持存活和接受邮件等操作依赖cookie，这里只设置了全局cookie ，所以一般不能多线程。
-
-## myria 全自动化自动刷分
-
-过几天再更新，我先刷一阵的。
