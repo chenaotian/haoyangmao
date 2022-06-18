@@ -12,13 +12,13 @@
 6. 输入验证码，然后输入你自己的邀请码
 7. 成功。
 
-![image-20220618142431407](D:\tool\web3\git\haoyangmao\README.assets\image-20220618142431407.png)
+![image-20220618142431407](README.assets/image-20220618142431407.png)
 
 ## myria 全自动化自动刷分
 
 过几天再更新，我先刷一阵的。
 
-![image-20220618142617715](D:\tool\web3\git\haoyangmao\README.assets\image-20220618142617715.png)
+![image-20220618142617715](README.assets/image-20220618142617715.png)
 
 ## tempemail
 

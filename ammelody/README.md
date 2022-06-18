@@ -10,4 +10,4 @@
 6. 输入验证码，然后输入你自己的邀请码
 7. 成功。
 
-![image-20220618142341798](D:\tool\web3\git\haoyangmao\ammelody\README.assets\image-20220618142341798.png)
+![image-20220618142341798](README.assets/image-20220618142341798.png)
